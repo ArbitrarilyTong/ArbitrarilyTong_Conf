@@ -2,7 +2,7 @@
 PRODUCT_PACKAGES += ArbitrarilyTongSettings
 
 # Add Prebuilt Apps
-$(call inherit-product, ArbitrarilyTong/Apps/PrebuiltApps.mk)
+$(call inherit-product, ArbitrarilyTong/Apps/PrebuiltAddons.mk)
 
 # Add Audio
 $(call inherit-product, ArbitrarilyTong/Audios/audio.mk)
