@@ -1,5 +1,5 @@
 # ArbitrarilyTong Apps
-PRODUCT_PACKAGES += ArbitrarilyTongSettings
+PRODUCT_PACKAGES += DogDaySettings
 
 # Add Prebuilt Apps
 $(call inherit-product, ArbitrarilyTong/Apps/PrebuiltAddons.mk)
